@@ -34,8 +34,8 @@ class  Counter < Thor
 
   ##############
 
-  desc "get_perfects_num", "Get All perfect numbers < n"
-  def get_perfects_num # Get All perfect numbers < n
+  desc "perfects_num", "Get All perfect numbers < n"
+  def perfects_num # Get All perfect numbers < n
   puts 'Write the number to get all perfect numbers'
   n = ask("Enter number", color = "\e[1m").to_i
   numbers = (1..n).to_a # Convert range to array
