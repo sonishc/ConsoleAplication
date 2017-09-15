@@ -1,0 +1,22 @@
+Проект.
+Гібридна монолітна аплікація.
+
+Все на рельсах + Реакт
+що таке реакт? Флакс)
+gulp Grand
+Webpack
+React views
+
+Model relation
+gem Device, cancan, pangen
+WebSocket
+UML
+
+ES - 6 
+
+Бекенд - 
+
+Combat написана була на php - Бійцівський клуб гра.
+
+
+
